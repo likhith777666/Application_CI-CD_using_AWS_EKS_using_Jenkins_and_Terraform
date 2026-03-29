@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: likhith045/backend:latest
+        image: likhith045/backend:5
         imagePullPolicy: Always
         env:
           - name: MONGO_CONN_STR
