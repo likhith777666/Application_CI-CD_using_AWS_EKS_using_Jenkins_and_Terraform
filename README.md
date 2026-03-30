@@ -1,4 +1,4 @@
-Project: End-to-End DevOps CI/CD Pipeline with AWS EKS, Jenkins & ArgoCD
+# Project: End-to-End DevOps CI/CD Pipeline with AWS EKS, Jenkins & ArgoCD
 
 This project demonstrates a complete production-style DevOps workflow where a three-tier application (Frontend, Backend, Database) is automatically built, analyzed, containerized, and deployed into Kubernetes using GitOps principles.
 
@@ -139,6 +139,8 @@ SonarQube
 Prometheus & Grafana
 Node.js & React
 
-# How to Run
-👉 [Full Setup Guide]([Click_Here](https://github.com/likhith777666/Three_tier_app_CI-CD_using_AWS_EKS_using_Jenkins_and_Terraform/blob/main/doc/how-to-run.md))
-    
+## How to Run
+
+For detailed setup instructions, follow the complete guide:
+
+👉 **[View Full Setup Documentation](https://github.com/likhith777666/Three_tier_app_CI-CD_using_AWS_EKS_using_Jenkins_and_Terraform/blob/main/doc/how-to-run.md)**
